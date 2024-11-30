@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: swinglab
+Build-Jdk: 1.6.0_16
+Hudson-Build-Number: 1
+Hudson-Project: SwingX Weekly Build
+Hudson-Version: 1.330
+
